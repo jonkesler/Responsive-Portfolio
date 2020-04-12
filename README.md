@@ -9,4 +9,6 @@ Responsive Portfolio using bootstrap
 
 # Responsive-Portfolio Commits
 1. Framework and Styling for screens 980+
-2. Framework and Styling for screens 768 < = 979 and screens > 767
+2. Framework and Styling for screens (768 < = 979) and screens (> 767)
+3. Update to ReadMe and a change to media query for screens (> 767)
+4. Validated code by https://validator.w3.org/#validate_by_upload
