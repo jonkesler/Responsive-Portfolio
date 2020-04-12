@@ -15,8 +15,9 @@ section {
 section {
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    /* instructions say xs has no margin on left or right */
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
     }
     /* body {
         background-color: blue  ;
